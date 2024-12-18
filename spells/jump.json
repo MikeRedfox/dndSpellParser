@@ -1,0 +1,1 @@
+{"slug":"jump","name":"Jump","desc":"You touch a creature. The creature's jump distance is tripled until the spell ends.","range":"Touch","components":"V, S, M","material":"A grasshopper's hind leg.","ritual":"no","duration":"1 minute","concentration":"no","casting_time":"1 action","level_int":1}

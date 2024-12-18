@@ -1,0 +1,1 @@
+{"slug":"fly-a5e","name":"Fly","desc":"The target gains a flying speed of 60 feet. When the spell ends, the target falls if it is off the ground.","higher_level":"Target one additional creature for each slot level above 3rd.","range":"touch","components":"V, S, M","ritual":"no","duration":"Up to 10 minutes","concentration":"yes","casting_time":"1 action","level_int":3}

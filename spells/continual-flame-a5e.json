@@ -1,0 +1,1 @@
+{"slug":"continual-flame-a5e","name":"Continual Flame","desc":"A magical torch-like flame springs forth from the target. The flame creates no heat, doesn't consume oxygen, and can't be extinguished, but it can be covered.","range":"touch","components":"V, S, M","ritual":"no","duration":"Permanent","concentration":"no","casting_time":"1 action","level_int":2}

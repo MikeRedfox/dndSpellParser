@@ -1,0 +1,1 @@
+{"slug":"force-punch-a5e","name":"Force Punch","desc":"Make a melee spell attack. On a hit, the target takes 3d8 force damage.","higher_level":"The damage increases by 1d8 for each slot level above 1st.","range":"self","components":"V, S","ritual":"no","duration":"Instantaneous","concentration":"no","casting_time":"1 action","level_int":1}
